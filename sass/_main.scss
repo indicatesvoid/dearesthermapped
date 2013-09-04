@@ -1,0 +1,34 @@
+html, body {
+	// background: url('/img/bg/scene1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.white {
+	color: #fff;
+	text-color: #fff;
+}
+
+.parchment {
+	background: url('/img/bg/paper2.jpg');
+	background-repeat: repeat-y;
+	background-size: cover;
+	padding: 50px;
+	margin: 15px;
+	opacity: 0.9;
+	// background-attachment: fixed;
+}
+
+p {
+	font-family: 'Trykker', serif;
+}
+
+.parchment p {
+	font-family: 'Reenie Beanie', cursive;
+}
+
+canvas.overlay {
+	position: absolute;
+	// width: 100%;
+}

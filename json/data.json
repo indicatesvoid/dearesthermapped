@@ -1,0 +1,30 @@
+{
+	"phrases": [
+		{ 
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis auctor nulla quis pretium. Nunc vehicula tincidunt scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi ac sapien nunc. Vivamus augue magna, volutpat sed gravida ut, imperdiet vitae libero. Duis at porta justo, non rutrum felis.", 
+			"mapClass": "lorum"
+		},
+
+		{ 
+			"text": "Fusce semper purus nec elit viverra aliquet. Mauris dictum tincidunt elit eu tincidunt. Duis et diam pulvinar, volutpat risus et, mollis neque. Vivamus elementum, enim sit amet interdum sagittis, velit lectus aliquam ligula, et ultrices orci nibh at sapien. Pellentesque tincidunt gravida est sed bibendum. Maecenas rhoncus diam sit amet sapien volutpat tristique. Aliquam erat volutpat. Nulla bibendum dictum ligula, et feugiat leo vestibulum ac.",
+			"mapClass": "dolor"
+		}
+	],
+
+	"keywords": [
+		{
+			"term": "ipsum",
+			"mapClass": "ipsum"
+		},
+
+		{
+			"term": "varius",
+			"mapClass": "varius"
+		},
+
+		{
+			"term": "sed",
+			"mapClass": "sed"
+		}
+	]
+}
