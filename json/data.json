@@ -1,30 +1,198 @@
 {
 	"phrases": [
 		{ 
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis auctor nulla quis pretium. Nunc vehicula tincidunt scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi ac sapien nunc. Vivamus augue magna, volutpat sed gravida ut, imperdiet vitae libero. Duis at porta justo, non rutrum felis.", 
-			"mapClass": "lorum"
+			"text": "Donnelly reported the legend of the hermit; a holy man who sought solitude in its most pure form. Allegedly, he rowed here from the mainland in a boat without a bottom, so all the creatures of the sea could rise at night to converse with him. How disappointed he must have been with their chatter. Perhaps now, when all that haunts the ocean is the rubbish dumped from the tankers, he'd find more peace. They say he threw his arms wide in a valley on the south side and the cliff opened up to provide him shelter; they say he died of fever one hundred and sixteen years later. The shepherds left gifts for him at the mouth of the cave, but Donnelly records they never claimed to have seen him. I have visited the cave and I have left my gifts, but like them, I appear to be an unworthy subject of his solitude.", 
+			"id": "subject_of_solitude",
+			"num": "1",
+			"keywords": [ "hermit", "boat", "fever", "cliff", "shepherds", "holy man" ],
+			"top": "533px",
+			"left": "73px",
+			"screenshot": "2013-09-03_00009.jpg"
+
 		},
 
 		{ 
-			"text": "Fusce semper purus nec elit viverra aliquet. Mauris dictum tincidunt elit eu tincidunt. Duis et diam pulvinar, volutpat risus et, mollis neque. Vivamus elementum, enim sit amet interdum sagittis, velit lectus aliquam ligula, et ultrices orci nibh at sapien. Pellentesque tincidunt gravida est sed bibendum. Maecenas rhoncus diam sit amet sapien volutpat tristique. Aliquam erat volutpat. Nulla bibendum dictum ligula, et feugiat leo vestibulum ac.",
-			"mapClass": "dolor"
+			"text": "There was once talk of a wind farm out here, away from the rage and the intolerance of the masses. The sea, they said, is too rough for the turbines to stand: they clearly never came here to experience the becalming for themselves. Personally, I would have supported it; turbines would be a fitting contemporary refuge for a hermit: the revolution and the permanence.",
+			"id": "wind_farm",
+			"num": "2",
+			"keywords": [ "hermit" ],
+			"top": "412px",
+			"left": "104px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "I have found the ship's manifest, crumpled and waterlogged, under a stash of paint cans. It tells me that along with this present cargo, there was a large quantity of antacid yoghurt, bound for the European market. It must have washed out to sea, God knows there are no longer gulls or goats here to eat it.",
+			"id": "manifest",
+			"num": "3",
+			"keywords": ["yoghurt"],
+			"top": "380px",
+			"left": "106px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "When someone had died or was dying or was so ill they gave up on what little hope they could sacrifice, they cut parallel lines into the cliff, exposing the white chalk beneath. With the right eyes you could see them from the mainland or the fishing boats and know to send aid or impose a cordon of protection, and wait a generation until whatever pestilence stalked the cliff paths died along with its hosts. My lines are just for this: to keep any would-be rescuers at bay. The infection is not simply of the flesh.",
+			"id": "parallel_lines",
+			"num": "4",
+			"keywords": ["lines", "infection", "illness", "cliff", "boat"],
+			"top": "480px",
+			"left": "96px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "Dear Esther. I met Paul. I made my own little pilgrimage. My Damascus is a small semi-detached on the outskirts of Wolverhampton. We drank coffee in his kitchen and tried to connect to one another. Although he knew I hadn't come in search of an apology, reason or retribution, he still spiraled in panic, thrown high and lucid by his own dented bonnet. Responsibility had made him old; like us, he had already passed beyond any conceivable boundary of life.",
+			"id": "coffee_with_paul",
+			"num": "5",
+			"keywords": ["damascus", "Wolverhampton"],
+			"top": "454px",
+			"left": "100px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "I threw my arms wide and the cliff opened out before me, making this rough home. I transferred my belongings from the bothy on the mount and tried to live here instead. It was cold at night and the sea leaped at the entrance at high tide. To climb the peak, I must first venture even deeper into veins of the island, where the signals are blocked altogether. Only then will I understand them, when I stand on the summit and they flow into me, uncorrupted.",
+			"id": "blocked_signals",
+			"num": "6",
+			"keywords": [ "twenty-one", "bothy", "summit" ],
+			"top": "568px",
+			"left": "102px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "He still maintains he wasn't drunk but tired. I can't make the judgement or the distinction anymore. I was drunk when I landed here, and tired too. I walked up the cliff path in near darkness and camped in the bay where the trawler lies beached. It was only at dawn that I saw the bothy and decided to make my temporary lodgings there. I was expecting just the aerial and a transmitter stashed in a weatherproof box somewhere on the mount. It had an air of uneasy permanence to it, like all the other buildings here; erosion seems to have evaded it completely.",
+			"id": "temporary_lodgings",
+			"num": "7",
+			"keywords": ["drunk", "cliff","bothy","aerial","transmitter"],
+			"top": "595px",
+			"left": "132px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "Dear Esther. I have now driven the stretch of the M5 between Exeter and Bristol over twenty-one times, but although I have all the reports and all the witnesses and have cross-referenced them within a millimeter using my ordinance survey maps, I simply cannot find the location. You'd think there would be marks, to serve as some evidence. Its somewhere between the turn off for Sandford and the Welcome Break services. But although I can always see it in my rear view mirror, I have as yet been unable to pull ashore.",
+			"id": "driven",
+			"num": "8",
+			"keywords": ["twenty-one", "highway"],
+			"top": "336px",
+			"left": "150px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "I had kidney stones, and you visited me in the hospital. After the operation, when I was still half submerged in anesthetic, your outline and your speech both blurred. Now my stones have grown into an island and made their escape and you have been rendered opaque by the car of a drunk.",
+			"id": "hospital",
+			"num": "9",
+			"keywords": [ "drunk" ],
+			"top": "284px",
+			"left": "105px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{ 
+			"text": "I've begun to wonder if Donnelly's voyage here was as prosaic as it was presented. How disappointed not to have found the bones of the holy man! No wonder he hated the inhabitants so. To him, they must have seemed like barnacles mindlessly clinging to a mercy seat. Why cling so hard to the rock? Because it is the only thing that stops us from sliding into the ocean. Into oblivion.",
+			"id": "into_oblivion",
+			"num": "10",
+			"keywords": ["holy man"],
+			"top": "275px",
+			"left": "63px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "Is this what Paul saw through his windscreen? Not Lot's wife, looking over her shoulder, but a scar in the hillside, falling away to black, forever.",
+			"id": "falling_to_black",
+			"num": "11",
+			"keywords": ["falling"],
+			"top": "0px",
+			"left": "0px",
+			"screenshot": "2013-09-03_00009.jpg"
+		},
+
+		{
+			"text": "The bothy was constructed originally in the early 1700s. By then, shepherding had formalized into a career. The first habitual shepherd was a man named Jakobson, from a lineage of migratory Scandinavians. He was not considered a man of breeding by the mainlanders. he came here every summer whilst building the bothy, hoping, eventually, that becoming a man of property would secure him a wife and a lineage. Donnelly records that it did not work: he caught some disease from his malcontented goats and died two years after completing it. There was no one to carve white lines into the cliff for him either.",
+			"id":"man_of_property",
+			"num": "12",
+			"keywords": ["shepherds", "bothy", "Jakobson", "disease", "lines"],
+			"top": "0px",
+			"left": "0px",
+			"screenshot": "2013-09-03_00009.jpg"
 		}
 	],
 
 	"keywords": [
 		{
-			"term": "ipsum",
-			"mapClass": "ipsum"
+			"term": "Donnelly",
+			"id": "donnelly",
+			"num_list": ["1", "2"]
 		},
 
 		{
-			"term": "varius",
-			"mapClass": "varius"
+			"term": "bothy",
+			"id": "bothy",
+			"num_list": ["6", "7"]
 		},
 
 		{
-			"term": "sed",
-			"mapClass": "sed"
+			"term": "drunk",
+			"id": "drunk",
+			"num_list": ["7", "9"]
+		},
+
+		{
+			"term": "antacid yoghurt",
+			"id": "yoghurt",
+			"num_list": ["3"]
+		},
+
+		{
+			"term": "hermit",
+			"id": "hermit",
+			"num_list": ["1", "2"]
+		},
+
+		{
+			"term": "boat",
+			"id": "boat",
+			"num_list": ["1"]
+		},
+
+		{
+			"term": "cliff",
+			"id": "cliff",
+			"num_list": ["1", "7"]
+		},
+
+		{
+			"term": "shepherds",
+			"id": "shepherds",
+			"num_list": ["1"]
+		},
+
+		{
+			"term": "lines",
+			"id": "lines",
+			"num_list": ["4"]
+		},
+
+		{
+			"term": "infection",
+			"id": "infection",
+			"num_list": ["4"]
+		},
+
+		{
+			"term": "twenty-one",
+			"id": "twenty-one",
+			"num_list": ["6", "8"]
+		},
+
+		{
+			"term": "holy man",
+			"id": "holy man",
+			"num_list": ["1", "10"]
 		}
 	]
 }
