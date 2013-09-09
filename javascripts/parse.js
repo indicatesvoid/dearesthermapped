@@ -209,7 +209,7 @@ $(document).ready(function() {
         }
 
         // apply font styles for clicked keyword
-        $('.text-focus').removeClass('.text-focus');
+        $('.text-focus').removeClass('text-focus');
         $('[data-map="' + keyword +'"]').addClass('text-focus');
 
         // scroll to top of page

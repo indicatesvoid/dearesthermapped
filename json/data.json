@@ -4,7 +4,7 @@
 			"text": "Donnelly reported the legend of the hermit; a holy man who sought solitude in its most pure form. Allegedly, he rowed here from the mainland in a boat without a bottom, so all the creatures of the sea could rise at night to converse with him. How disappointed he must have been with their chatter. Perhaps now, when all that haunts the ocean is the rubbish dumped from the tankers, he'd find more peace. They say he threw his arms wide in a valley on the south side and the cliff opened up to provide him shelter; they say he died of fever one hundred and sixteen years later. The shepherds left gifts for him at the mouth of the cave, but Donnelly records they never claimed to have seen him. I have visited the cave and I have left my gifts, but like them, I appear to be an unworthy subject of his solitude.", 
 			"id": "subject_of_solitude",
 			"num": "1",
-			"keywords": [ "hermit", "boat", "fever", "cliff", "shepherds", "holy man" ],
+			"keywords": ["donnelly", "hermit", "boat", "fever", "cliff", "shepherds", "holy man" ],
 			"top": "533px",
 			"left": "73px",
 			"screenshot": "2013-09-03_00009.jpg"
@@ -25,7 +25,7 @@
 			"text": "I have found the ship's manifest, crumpled and waterlogged, under a stash of paint cans. It tells me that along with this present cargo, there was a large quantity of antacid yoghurt, bound for the European market. It must have washed out to sea, God knows there are no longer gulls or goats here to eat it.",
 			"id": "manifest",
 			"num": "3",
-			"keywords": ["yoghurt"],
+			"keywords": ["yoghurt", "ship"],
 			"top": "380px",
 			"left": "106px",
 			"screenshot": "2013-09-03_00018.jpg"
@@ -35,7 +35,7 @@
 			"text": "Reading Donnelly by the afternoon sunlight. He landed on the south side of the island, followed the path to bay and climbed the mount. He did not find the caves and he did not chart the north side. I think this is why his understanding of the island is flawed, incomplete. He stood on the mount and only wondered momentarily how to descend. But then, he didn't have my reasons.",
 			"id": "reading_donnelly",
 			"num": "3",
-			"keywords": ["Donnelly", "caves"],
+			"keywords": ["donnelly", "caves"],
 			"top": "475px",
 			"left": "81px",
 			"screenshot": "2013-09-03_00020.jpg"
@@ -55,7 +55,7 @@
 			"text": "Dear Esther. I met Paul. I made my own little pilgrimage. My Damascus is a small semi-detached on the outskirts of Wolverhampton. We drank coffee in his kitchen and tried to connect to one another. Although he knew I hadn't come in search of an apology, reason or retribution, he still spiraled in panic, thrown high and lucid by his own dented bonnet. Responsibility had made him old; like us, he had already passed beyond any conceivable boundary of life.",
 			"id": "coffee_with_paul",
 			"num": "5",
-			"keywords": ["damascus", "Wolverhampton"],
+			"keywords": ["damascus", "wolverhampton"],
 			"top": "568px",
 			"left": "102px",
 			"screenshot": "2013-09-03_00025.jpg"
@@ -75,7 +75,7 @@
 			"text": "He still maintains he wasn't drunk but tired. I can't make the judgement or the distinction anymore. I was drunk when I landed here, and tired too. I walked up the cliff path in near darkness and camped in the bay where the trawler lies beached. It was only at dawn that I saw the bothy and decided to make my temporary lodgings there. I was expecting just the aerial and a transmitter stashed in a weatherproof box somewhere on the mount. It had an air of uneasy permanence to it, like all the other buildings here; erosion seems to have evaded it completely.",
 			"id": "not_drunk_but_tired",
 			"num": "7",
-			"keywords": ["drunk", "cliff","bothy","aerial","transmitter"],
+			"keywords": ["drunk", "cliff","bothy","aerial","transmitter","beacon"],
 			"top": "540px",
 			"left": "109px",
 			"screenshot": "2013-09-03_00036.jpg"
@@ -85,7 +85,7 @@
 			"text": "Dear Esther. I have now driven the stretch of the M5 between Exeter and Bristol over twenty-one times, but although I have all the reports and all the witnesses and have cross-referenced them within a millimeter using my ordinance survey maps, I simply cannot find the location. You'd think there would be marks, to serve as some evidence. Its somewhere between the turn off for Sandford and the Welcome Break services. But although I can always see it in my rear view mirror, I have as yet been unable to pull ashore.",
 			"id": "driven",
 			"num": "8",
-			"keywords": ["twenty-one", "Sandford"],
+			"keywords": ["twenty-one", "sandford"],
 			"top": "336px",
 			"left": "150px",
 			"screenshot": "2013-09-03_00040.jpg"
@@ -105,7 +105,7 @@
 			"text": "I've begun to wonder if Donnelly's voyage here was as prosaic as it was presented. How disappointed not to have found the bones of the holy man! No wonder he hated the inhabitants so. To him, they must have seemed like barnacles mindlessly clinging to a mercy seat. Why cling so hard to the rock? Because it is the only thing that stops us from sliding into the ocean. Into oblivion.",
 			"id": "into_oblivion",
 			"num": "10",
-			"keywords": ["holy man"],
+			"keywords": ["donnelly", "holy man"],
 			"top": "275px",
 			"left": "63px",
 			"screenshot": "2013-09-03_00046.jpg"
@@ -125,7 +125,7 @@
 			"text": "The bothy was constructed originally in the early 1700s. By then, shepherding had formalized into a career. The first habitual shepherd was a man named Jakobson, from a lineage of migratory Scandinavians. He was not considered a man of breeding by the mainlanders. he came here every summer whilst building the bothy, hoping, eventually, that becoming a man of property would secure him a wife and a lineage. Donnelly records that it did not work: he caught some disease from his malcontented goats and died two years after completing it. There was no one to carve white lines into the cliff for him either.",
 			"id":"man_of_property",
 			"num": "12",
-			"keywords": ["shepherds", "bothy", "Jakobson", "disease", "lines", "cliff"],
+			"keywords": ["donnelly", "shepherds", "bothy", "jakobson", "disease", "lines", "cliff"],
 			"top": "249px",
 			"left": "130px",
 			"screenshot": "2013-09-03_00054.jpg"
@@ -135,7 +135,7 @@
 			"text": "When the oil lamps ran out I didn't pick up a torch but used the moonlight to read by. When I have pulled the last shreds of sense from it, I will throw Donnelly's book from the cliffs and perhaps myself with it. Maybe it will wash back up through the caves and erupt from the spring when the rain comes, making its return to the hermits cave. Perhaps it will be back on the table when I wake. I think I may have thrown it into the sea several times before.",
 			"id": "throw_donnellys_book",
 			"num": "13",
-			"keywords": ["Donnelly", "moon", "cliff", "hermit"],
+			"keywords": ["donnelly", "moon", "cliff", "hermit"],
 			"top": "230px",
 			"left": "110px",
 			"screenshot": "2013-09-03_00056.jpg"
@@ -154,8 +154,8 @@
 		{
 			"text": "They found Jakobson in the early spring, the thaw had only just come. Even though he'd been dead nearly seven months, his body had been frozen right down to the nerves and had not even begun to decompose. All around him, small flowers were reaching for the weak sun, the goats had adjusted happily to life without a shepherd and were grazing freely about the valley. Donnelly reports they hurled the body in fear and disgust down the shaft, but I cannot corroborate this story.",
 			"id": "dead_jakobson",
-			"num": "14",
-			"keywords": ["shepherd", "Donnelly" ],
+			"num": "15",
+			"keywords": ["shepherd", "donnelly", "jakobson" ],
 			"top": "207px",
 			"left": "89px",
 			"screenshot": "2013-09-03_00063.jpg"
@@ -174,7 +174,7 @@
 			"text": "I sat here and watched two jets carve parallel white lines into the sky. They charted their course and I followed them for twenty-one minutes until they turned off near Sandford and were lost. If I were a gull, I would abandon my nest and join them. I would starve my brain of oxygen and suffer delusions of transcendence. I would tear the bottom from my boat and sail across the motorways until I reached this island once again.",
 			"id": "jets",
 			"num": "17",
-			"keywords": [ "lines", "gull", "boat" ],
+			"keywords": [ "lines", "gull", "boat", "sandford" ],
 			"top": "160px",
 			"left": "127px",
 			"screenshot": "2013-09-03_00110.jpg"
@@ -194,7 +194,7 @@
 			"text": "There were chemical diagrams on the mug he gave me coffee in; sticky at the handle where his hands shook. He worked for a pharmaceutical company with an office based on the outskirts of Wolverhampton. He'd been traveling back from a sales conference in Exeter: forming a strategic vision for the pedaling of antacid yoghurt to the European market. You could trace the connections with your finger, join the dots and whole new compounds would be summoned into activity.",
 			"id": "sales_conference",
 			"num": "19",
-			"keywords": [ "yoghurt" ],
+			"keywords": [ "yoghurt", "wolverhampton" ],
 			"top": "32px",
 			"left": "170px",
 			"screenshot": "2013-09-03_00123.jpg"
@@ -214,7 +214,7 @@
 			"text": "The pain in my leg sent me blind for a few minutes as I struggled up the cliff path: I swallowed another handful of painkillers and now I feel almost lucid. The island around me has retreated to a hazed distance, whilst the moon appears to have descended into my palm to guide me. I can see a thick black line of infection reaching for my heart from the waistband of my trousers. Through the fugue, it is all the world like the path I have cut from the lowlands towards the aerial.",
 			"id": "pain_in_my_leg",
 			"num": "21",
-			"keywords": [ "cliff", "moon", "infection", "aerial" ],
+			"keywords": [ "cliff", "moon", "infection", "aerial", "beacon" ],
 			"top": "125px",
 			"left": "120px",
 			"screenshot": "2013-09-03_00131.jpg"
@@ -234,7 +234,7 @@
 			"text": "If only Donnelly had experienced this, he would have realized he was his own shoreline, as am I. Just as I am becoming this island, so he became his syphilis, retreating into the burning synapses, the stones, the infection.",
 			"id": "own_shoreline",
 			"num": "23",
-			"keywords": [ "Donnelly", "syphilis", "infection" ],
+			"keywords": [ "donnelly", "syphilis", "infection" ],
 			"top": "126px",
 			"left": "137px",
 			"screenshot": "2013-09-03_00139.jpg"
@@ -244,7 +244,7 @@
 			"text": "The stones in my stomach will weigh me down and ensure my descent is sure and straight. I will break through the fog of these godforsaken pills and achieve clarity. All my functions are clogged, all my veins are choked. If my leg doesn't rot off before I reach the summit, it will be a miracle. There are twenty-one connections in the circuit diagram of the anti-lock brakes, there are twenty-one species of gull inhabiting these islands, it is twenty-one miles between the Sandford junction and the turn off for home. All these things cannot, will not, be a co-incidence.",
 			"id": "coincidence",
 			"num": "24",
-			"keywords": [ "twenty-one" ],
+			"keywords": [ "twenty-one", "sandford" ],
 			"top": "144px",
 			"left": "151px",
 			"screenshot": "2013-09-03_00145.jpg"
@@ -254,7 +254,7 @@
 			"text": "Dear Esther. I have burnt my belongings, my books, this death certificate. Mine will be written all across this island. Who was Jakobson, who remembers him? Donnelly has written of him, but who was Donnelly, who remembers him? I have painted, carved, hewn, scored into this space all that I could draw from him. There will be another to these shores to remember me. I will rise from the ocean like an island without a bottom, come together like a stone, become an aerial, a beacon that they will not forget you. We have always been drawn here: one day the gulls will return and nest in our bones and our history. I will look to my left and see Esther Donnelly, flying beside me. I will look to my right and see Paul Jakobson, flying beside me. They will leave white lines carved into the air to reach the mainland, where help will be sent.",
 			"id": "flying",
 			"num": "25",
-			"keywords": [ "Jakobson", "Donnelly", "aerial", "lines" ],
+			"keywords": [ "jakobson", "donnelly", "aerial", "beacon", "lines" ],
 			"top": "130px",
 			"left": "155px",
 			"screenshot": "2013-09-03_00175.jpg"
@@ -266,13 +266,13 @@
 		{
 			"term": "Donnelly",
 			"id": "donnelly",
-			"num_list": ["1", "2"]
+			"num_list": ["1", "2", "10", "12", "13", "15", "23", "25"]
 		},
 
 		{
 			"term": "bothy",
 			"id": "bothy",
-			"num_list": ["6", "7"]
+			"num_list": ["6", "7", "12"]
 		},
 
 		{
@@ -297,12 +297,6 @@
 			"term": "boat",
 			"id": "boat",
 			"num_list": ["1"]
-		},
-
-		{
-			"term": "ship",
-			"id": "shipwreck",
-			"num_list": []
 		},
 
 		{
