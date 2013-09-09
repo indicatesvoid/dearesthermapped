@@ -18,7 +18,7 @@
 			"keywords": [ "hermit" ],
 			"top": "412px",
 			"left": "104px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00014.jpg"
 		},
 
 		{
@@ -28,7 +28,17 @@
 			"keywords": ["yoghurt"],
 			"top": "380px",
 			"left": "106px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00018.jpg"
+		},
+
+		{
+			"text": "Reading Donnelly by the afternoon sunlight. He landed on the south side of the island, followed the path to bay and climbed the mount. He did not find the caves and he did not chart the north side. I think this is why his understanding of the island is flawed, incomplete. He stood on the mount and only wondered momentarily how to descend. But then, he didn't have my reasons.",
+			"id": "reading_donnelly",
+			"num": "3",
+			"keywords": ["Donnelly", "caves"],
+			"top": "475px",
+			"left": "81px",
+			"screenshot": "2013-09-03_00020.jpg"
 		},
 
 		{
@@ -38,7 +48,7 @@
 			"keywords": ["lines", "infection", "illness", "cliff", "boat"],
 			"top": "454px",
 			"left": "100px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00022.jpg"
 		},
 
 		{
@@ -48,7 +58,7 @@
 			"keywords": ["damascus", "Wolverhampton"],
 			"top": "568px",
 			"left": "102px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00025.jpg"
 		},
 
 		{
@@ -58,37 +68,37 @@
 			"keywords": [ "twenty-one", "bothy", "summit" ],
 			"top": "595px",
 			"left": "132px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00029.jpg"
 		},
 
 		{
 			"text": "He still maintains he wasn't drunk but tired. I can't make the judgement or the distinction anymore. I was drunk when I landed here, and tired too. I walked up the cliff path in near darkness and camped in the bay where the trawler lies beached. It was only at dawn that I saw the bothy and decided to make my temporary lodgings there. I was expecting just the aerial and a transmitter stashed in a weatherproof box somewhere on the mount. It had an air of uneasy permanence to it, like all the other buildings here; erosion seems to have evaded it completely.",
-			"id": "temporary_lodgings",
+			"id": "not_drunk_but_tired",
 			"num": "7",
 			"keywords": ["drunk", "cliff","bothy","aerial","transmitter"],
 			"top": "540px",
 			"left": "109px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00036.jpg"
 		},
 
 		{
 			"text": "Dear Esther. I have now driven the stretch of the M5 between Exeter and Bristol over twenty-one times, but although I have all the reports and all the witnesses and have cross-referenced them within a millimeter using my ordinance survey maps, I simply cannot find the location. You'd think there would be marks, to serve as some evidence. Its somewhere between the turn off for Sandford and the Welcome Break services. But although I can always see it in my rear view mirror, I have as yet been unable to pull ashore.",
 			"id": "driven",
 			"num": "8",
-			"keywords": ["twenty-one", "highway"],
+			"keywords": ["twenty-one", "Sandford"],
 			"top": "336px",
 			"left": "150px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00040.jpg"
 		},
 
 		{
 			"text": "I had kidney stones, and you visited me in the hospital. After the operation, when I was still half submerged in anesthetic, your outline and your speech both blurred. Now my stones have grown into an island and made their escape and you have been rendered opaque by the car of a drunk.",
 			"id": "hospital",
 			"num": "9",
-			"keywords": [ "drunk" ],
+			"keywords": [ "drunk", "kidney stones" ],
 			"top": "284px",
 			"left": "105px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00044.jpg"
 		},
 
 		{ 
@@ -98,7 +108,7 @@
 			"keywords": ["holy man"],
 			"top": "275px",
 			"left": "63px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00046.jpg"
 		},
 
 		{
@@ -108,7 +118,7 @@
 			"keywords": ["falling"],
 			"top": "265px",
 			"left": "120px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00050.jpg"
 		},
 
 		{
@@ -118,36 +128,46 @@
 			"keywords": ["shepherds", "bothy", "Jakobson", "disease", "lines", "cliff"],
 			"top": "249px",
 			"left": "130px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"screenshot": "2013-09-03_00054.jpg"
 		},
 
 		{
 			"text": "When the oil lamps ran out I didn't pick up a torch but used the moonlight to read by. When I have pulled the last shreds of sense from it, I will throw Donnelly's book from the cliffs and perhaps myself with it. Maybe it will wash back up through the caves and erupt from the spring when the rain comes, making its return to the hermits cave. Perhaps it will be back on the table when I wake. I think I may have thrown it into the sea several times before.",
-			"id": "reading_donnelly",
+			"id": "throw_donnellys_book",
 			"num": "13",
 			"keywords": ["Donnelly", "moon", "cliff", "hermit"],
-			"top": "480px",
-			"left": "96px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"top": "230px",
+			"left": "110px",
+			"screenshot": "2013-09-03_00056.jpg"
 		},
 
-				{
+		{
+			"text": "He left his body to the medical school and was duly opened out for a crowd of students twenty-one days after his passing. The report is included in my edition of his book. The syphilis had torn through his guts like a drunk driver, scrambling his organs like eggs on a plate. But enough definition remained for a cursory examination and, as I suspected, they found clear evidence of kidney stones. He is likely to have spent the last years of his life in considerable pain: perhaps this is the root of his laudanum habit. Although its use makes him an unreliable witness, I find myself increasingly drawn into his orbit.",
+			"id": "medical_school",
+			"num": "14",
+			"keywords": ["syphilis", "twenty-one", "drunk", "kidney stones"],
+			"top": "219px",
+			"left": "87px",
+			"screenshot": "2013-09-03_00062.jpg"
+		},
+
+		{
 			"text": "They found Jakobson in the early spring, the thaw had only just come. Even though he'd been dead nearly seven months, his body had been frozen right down to the nerves and had not even begun to decompose. All around him, small flowers were reaching for the weak sun, the goats had adjusted happily to life without a shepherd and were grazing freely about the valley. Donnelly reports they hurled the body in fear and disgust down the shaft, but I cannot corroborate this story.",
 			"id": "dead_jakobson",
 			"num": "14",
 			"keywords": ["shepherd", "Donnelly" ],
-			"top": "230px",
-			"left": "110px",
-			"screenshot": "2013-09-03_00009.jpg"
+			"top": "207px",
+			"left": "89px",
+			"screenshot": "2013-09-03_00063.jpg"
 		},
 {
 			"text": "It was as if someone had taken the car and shaken it like a cocktail. The glove compartment had been opened and emptied with the ashtrays and the boot; it made for a crumpled museum, a shattered exhibition.",
 			"id": "crumpled_museum",
 			"num": "16",
 			"keywords": [],
-			"top": "219px",
-			"left": "87px",
-			"screenshot": ""
+			"top": "224px",
+			"left": "139px",
+			"screenshot": "2013-09-03_00075.jpg"
 		},
 
 		{
@@ -155,9 +175,9 @@
 			"id": "jets",
 			"num": "17",
 			"keywords": [ "lines", "gull", "boat" ],
-			"top": "207px",
-			"left": "89px",
-			"screenshot": ""
+			"top": "160px",
+			"left": "127px",
+			"screenshot": "2013-09-03_00110.jpg"
 		},
 
 		{
@@ -167,7 +187,7 @@
 			"keywords": [ "sea" ],
 			"top": "230px",
 			"left": "135px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00116.jpg"
 		},
 
 		{
@@ -177,7 +197,7 @@
 			"keywords": [ "yoghurt" ],
 			"top": "32px",
 			"left": "170px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00123.jpg"
 		},
 
 		{
@@ -187,7 +207,7 @@
 			"keywords": [ "folded", "boat", "twenty-one" ],
 			"top": "108px",
 			"left": "113px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00127.jpg"
 		},
 
 		{
@@ -197,7 +217,7 @@
 			"keywords": [ "cliff", "moon", "infection", "aerial" ],
 			"top": "125px",
 			"left": "120px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00131.jpg"
 		},
 
 		{
@@ -207,7 +227,7 @@
 			"keywords": [ "boat", "moon", "folded", "lines" ],
 			"top": "139px",
 			"left": "128px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00135.jpg"
 		},
 
 		{
@@ -217,7 +237,7 @@
 			"keywords": [ "Donnelly", "syphilis", "infection" ],
 			"top": "126px",
 			"left": "137px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00139.jpg"
 		},
 
 		{
@@ -227,7 +247,7 @@
 			"keywords": [ "twenty-one" ],
 			"top": "144px",
 			"left": "151px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00145.jpg"
 		},
 
 		{
@@ -237,7 +257,7 @@
 			"keywords": [ "Jakobson", "Donnelly", "aerial", "lines" ],
 			"top": "130px",
 			"left": "155px",
-			"screenshot": ""
+			"screenshot": "2013-09-03_00175.jpg"
 		}
 
 	],
@@ -352,6 +372,12 @@
 		},
 
 		{
+			"term": "Sandford",
+			"id":"sandford",
+			"num_list": []
+		},
+
+		{
 			"term": "Jakobson",
 			"id": "jakobson",
 			"num_list": []
@@ -372,6 +398,12 @@
 		{
 			"term": "syphilis",
 			"id": "syphilis",
+			"num_list": []
+		},
+
+		{
+			"term": "caves",
+			"id": "caves",
 			"num_list": []
 		}
 	]
