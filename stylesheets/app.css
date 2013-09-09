@@ -7267,31 +7267,32 @@ canvas.overlay {
 /* line 44, ../sass/_main.scss */
 #map {
   position: fixed;
-  right: 150px;
+  right: 0px;
+  top: 75px;
 }
 
-/* line 49, ../sass/_main.scss */
+/* line 50, ../sass/_main.scss */
 .unfocused {
   opacity: 0.3;
   transition: all 0.5s linear;
 }
 
-/* line 54, ../sass/_main.scss */
+/* line 55, ../sass/_main.scss */
 .unfocused:hover {
   opacity: 0.7;
 }
 
-/* line 62, ../sass/_main.scss */
+/* line 63, ../sass/_main.scss */
 .icon {
   width: 300px;
 }
 
-/* line 66, ../sass/_main.scss */
+/* line 67, ../sass/_main.scss */
 .icon-tooltip {
   padding: 5px;
 }
 
-/* line 70, ../sass/_main.scss */
+/* line 71, ../sass/_main.scss */
 .full-height-bg {
   background-repeat: no-repeat;
   background-size: contain;
@@ -7299,7 +7300,7 @@ canvas.overlay {
   height: 100%;
 }
 
-/* line 77, ../sass/_main.scss */
+/* line 78, ../sass/_main.scss */
 .island {
   height: 650px;
   background-repeat: no-repeat;
@@ -7307,8 +7308,29 @@ canvas.overlay {
   -webkit-filter: drop-shadow(0px 0px 50px rgba(191, 143, 108, 0.5));
 }
 
-/* line 84, ../sass/_main.scss */
-.phrase-icon {
+/* line 85, ../sass/_main.scss */
+.island img {
+  position: absolute;
+  height: 650px;
+}
+
+/* line 91, ../sass/_main.scss */
+.legend.focused {
+  -webkit-filter: drop-shadow(0px 0px 10px #00d7f1);
+}
+
+/* line 95, ../sass/_main.scss */
+.text-focus {
+  color: #CE402C;
+}
+
+/* line 100, ../sass/_main.scss */
+.text-focus:hover {
+  color: #CE402C;
+}
+
+/* line 105, ../sass/_main.scss */
+.island img.phrase-icon {
   width: 15px;
   position: absolute;
 }

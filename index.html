@@ -38,17 +38,23 @@
 	</div>
 
 	<div class="row">
-		<div class="large-7 columns" id="text">
+		<div class="large-8 columns" id="text">
 			<canvas id="text-overlay" class="overlay">
 			</canvas>
 
 			<!-- filled in by parse.js -->
 		</div>
 
-		<div class="large-4 columns" id="map" style="margin: 15px; top: 0; height: 100%;">
+		<div class="large-4 columns" id="map" style="margin: 15px; height: 100%;">
 			<div class="island" style="background-image: url('img/island/island_vertical.png');">
+				<img src="img/island/bothy.png" class="legend" data-map="bothy"/>
+				<img src="img/island/shipwrecks.png" class="legend" data-map="shipwreck" />
+				<img src="img/island/beacons_off.png" class="legend" data-map="beacon" />
+				<canvas id="beacon" class="overlay"></canvas>
+				<img src="img/island/cliffs.png" class="legend" data-map="cliff" />
+				<img src="img/island/paper_boats.png" class="legend" data-map="boat" />
 				<!-- <img src="img/island/narrative_all.png" height="650px" style="opacity: 0.25"/>
-				<img src="img/island/narrative_icon.png"/> -->
+				<img src="img/island/narrative_icon.png" style="height: 10px"/> -->
 			</div>
 		</div>
 	</div>

@@ -43,7 +43,8 @@ canvas.overlay {
 
 #map {
 	position: fixed;
-	right: 150px;
+	right: 0px;
+	top: 75px;
 }
 
 .unfocused {
@@ -78,10 +79,30 @@ canvas.overlay {
 	height: 650px;
 	background-repeat: no-repeat;
 	background-size: contain;
-	-webkit-filter: drop-shadow(0px 0px 50px rgba(191,143,108,0.5))
+	-webkit-filter: drop-shadow(0px 0px 50px rgba(191,143,108,0.5));
 }
 
-.phrase-icon {
+.island img {
+	position: absolute;
+	height: 650px;
+	// transition: all 0.5s linear;
+}
+
+.legend.focused {
+	-webkit-filter: drop-shadow(0px 0px 10px rgba(0,215,241,1.0));
+}
+
+.text-focus {
+	color: #CE402C;
+	// text-decoration: underline;
+}
+
+.text-focus:hover {
+	color: #CE402C;
+
+}
+
+.island img.phrase-icon {
 	width: 15px;
 	position: absolute;
 }

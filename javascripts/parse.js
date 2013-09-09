@@ -119,6 +119,38 @@ function createKeywordLinks(element) {
     // element.html(content);
 }
 
+var beacon = {
+    canvas: '',
+    context: '',
+    opacity: 0.0
+}
+
+function flashBeacon(context, timing) {
+    setInterval(function() { 
+        setBeacon(context, beacon.opacity);
+        if(beacon.opacity < 1.0) beacon.opacity += 0.1;
+        else {
+            context.clearRect(0, 0, 200, 200);
+            beacon.opacity = 0.0;
+        }
+    }, timing);
+}
+
+function setBeacon(context, opacity) {
+    var centerX = 145;
+    var centerY = 112;
+    var radius = 2;
+
+    context.globalAlpha = opacity;
+    context.beginPath();
+    context.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);
+    context.fillStyle= 'red';
+    context.fill();
+    // context.lineWidth = 5;
+    // context.strokeStyle = 'red';
+    // context.stroke();
+}
+
 $(document).ready(function() {
 
 	var text = $("#text");
@@ -130,9 +162,13 @@ $(document).ready(function() {
     // setTimeout(function() { createKeywordLinks(text) }, 2000);
     createKeywordLinks(text);
 
+    beacon.canvas = document.getElementById('beacon');
+    beacon.context = beacon.canvas.getContext('2d');
+    flashBeacon(beacon.context, 200);
+
     $('.keyword').hover(function() {
         var item = $(this).attr('data-map');
-        map_container.find('[data-map=' + item + ']').toggleClass('map-focus');
+        map_container.find('[data-map="' + item + '"]').toggleClass('focused');
     })
 
     $('.keyword').click(function(e) {
@@ -171,6 +207,10 @@ $(document).ready(function() {
             text.prepend(elem);
             // elem.remove();
         }
+
+        // apply font styles for clicked keyword
+        $('.text-focus').removeClass('.text-focus');
+        $('[data-map="' + keyword +'"]').addClass('text-focus');
 
         // scroll to top of page
         $('body,html').animate({scrollTop: text.offset().top}, 800);
